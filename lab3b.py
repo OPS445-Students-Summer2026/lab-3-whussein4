@@ -8,12 +8,12 @@ def sum_numbers(number1, number2):
 	
 def subtract_numbers(number1, number2):
 	# Make this function subtract number1 and number2 and return the value
-	# Remeber to make sure the function accepts 2 arguments
+	# Remember to make sure the function accepts 2 arguments
 	return number1 - number2
 
 def multiply_numbers(number1, number2):
-	# Make this function multiplay number1 and number2 and return the value
-	# Remeber to make sure the function accepts 2 agruments
+	# Make this function multiply number1 and number2 and return the value
+	# Remember to make sure the function accepts 2 agruments
 	return number1 * number2
 
 if __name__	== '__main__':
